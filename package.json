@@ -1,7 +1,7 @@
 {
   "name": "antora-ui-tackler",
-  "description": "Produces the UI bundle for tackler.e257.fi/docs",
-  "homepage": "https://tackler.e257.fi/docs",
+  "description": "Produces the UI bundle for tackler docs",
+  "homepage": "https://tackler.fi/docs",
   "license": "MPL-2.0",
   "repository": {
     "type": "git",

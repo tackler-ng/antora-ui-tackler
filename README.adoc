@@ -5,7 +5,7 @@
 // Project URLs:
 :url-project: https://github.com/tackler-ng/antora-ui-default
 :url-upstream-main: https://github.com/tackler-ng/antora-ui-tackler/tree/master
-:url-preview: https://tackler.e257.fi/docs/
+:url-preview: https://tackler.fi/docs/
 // External URLs:
 :url-antora: https://antora.org
 :url-antora-ui: https://gitlab.com/antora/antora-ui-default
