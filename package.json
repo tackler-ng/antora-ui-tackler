@@ -13,6 +13,9 @@
   "browserslist": [
     "defaults"
   ],
+  "dependencies": {
+    "highlight.js": "^11.11.1"
+  },
   "devDependencies": {
     "@asciidoctor/core": "^3.0.4",
     "@fontsource/roboto": "^5.2.5",
@@ -24,10 +27,10 @@
     "cssnano": "^7.0.6",
     "eslint": "~6.8",
     "eslint-config-standard": "~14.1",
-    "eslint-plugin-import": "~2.20",
+    "eslint-plugin-import": "~2.22",
     "eslint-plugin-node": "~11.1",
     "eslint-plugin-promise": "~4.2",
-    "eslint-plugin-standard": "~4.0",
+    "eslint-plugin-standard": "~4.1",
     "fancy-log": "^2.0.0",
     "fs-extra": "^11.3.0",
     "gulp": "~5.0",
@@ -39,7 +42,6 @@
     "gulp-stylelint": "~13.0",
     "gulp-uglify": "~3.0",
     "handlebars": "~4.7",
-    "highlight.js": "^11.11.1",
     "js-yaml": "^4.1.0",
     "merge-stream": "~2.0",
     "postcss-calc": "^10.1.1",
@@ -49,8 +51,8 @@
     "prettier-eslint": "^16.4.1",
     "require-directory": "~2.1",
     "require-from-string": "~2.0",
-    "stylelint": "~13.3",
-    "stylelint-config-standard": "~20.0",
+    "stylelint": "~13.13.1",
+    "stylelint-config-standard": "~22.0",
     "vinyl-fs": "^3.0.3"
   }
 }
