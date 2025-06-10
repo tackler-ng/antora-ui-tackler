@@ -4,8 +4,12 @@
 {{#if (eq page.layout '404')}}
 {{> article-404}}
 {{else}}
+{{#if (eq page.layout 'wide')}}
+{{> article}}
+{{else}}
 {{> toc}}
 {{> article}}
+{{/if}}
 {{/if}}
   </div>
 </main>

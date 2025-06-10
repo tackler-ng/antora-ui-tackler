@@ -16,6 +16,10 @@
     max-width: var(--doc-max-width--desktop);
     min-width: 0;
   }
+
+  body.-toc .doc {
+    max-width: var(--doc-max-width--wide);
+  }
 }
 
 .doc h1,
